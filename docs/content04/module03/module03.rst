@@ -12,7 +12,7 @@
 
 - 設定後は、以下の状態になります。
 
-.. figure:: images/mod4-3-1-2.png
+.. figure:: images/mod4-3-2.png
    :scale: 20%
    :align: center
 
@@ -25,6 +25,6 @@
    F5 UDF Labでは設定不要です。
 
 
-.. figure:: images/mod4-3-2.png
+.. figure:: images/mod4-3-3.png
    :scale: 20%
    :align: center
