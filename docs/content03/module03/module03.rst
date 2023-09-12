@@ -15,7 +15,7 @@
 | Password: **admin**
 
 .. figure:: images/mod3-3-2.png
-   :scale: 100%
+   :scale: 80%
    :align: center
 
 .. note::
