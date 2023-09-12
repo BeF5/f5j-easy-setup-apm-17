@@ -69,7 +69,7 @@
 
 - ホスト名、タイムゾーン、Rootのパスワードを設定します。「Next」ボタンを押します。
 
-.. figure:: images/mod3-3-10.png
+.. figure:: images/mod3-3-10-1.png
    :scale: 30%
    :align: center
 
