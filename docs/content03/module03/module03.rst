@@ -15,7 +15,7 @@
 | Password: **admin**
 
 .. figure:: images/mod3-3-2.png
-   :scale: 85%
+   :scale: 90%
    :align: center
 
 .. note::
@@ -70,7 +70,7 @@
 - ホスト名、タイムゾーン、Rootのパスワードを設定します。「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-10-1.png
-   :scale: 55%
+   :scale: 50%
    :align: center
 
 - この後、Standard Network Configurationの「Next」を押すことでウィザード形式にて冗長化も含めた設定が可能ですが、ここではスタンドアローン構成にするため、Advanced Network Configurationの「Finished」ボタンを押します。
