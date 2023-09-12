@@ -6,7 +6,7 @@
 
 - 「Network」 → 「Routes」で表示された画面の右上にある「Add」ボタンを押します。以下の通り入力し、「Finished」を押します。 
 
-.. figure:: images/mod4-3-1-1.png
+.. figure:: images/mod4-3-1.png
    :scale: 20%
    :align: center
 
