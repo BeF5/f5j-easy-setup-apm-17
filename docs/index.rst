@@ -3,7 +3,7 @@
 
 BIG-IP Access Policy Manager (APM) v17.1 ネットワークアクセス 簡単セットアップガイド 初級&中級編
 ============================================================================================
-最終更新日: 2023年x月xx日
+最終更新日: 2023年09月13日
 
 
 はじめに
@@ -11,7 +11,7 @@ BIG-IP Access Policy Manager (APM) v17.1 ネットワークアクセス 簡単�
 このページでは、これらのオフィシャルなドキュメントの補足となる資料や、複数の機能を組合せてソリューションを実現する方法をご紹介いたします。
 F5のオフィシャルなドキュメントはこちらにございます。
 
-- AskF5: https://support.f5.com/csp/home
+- MyF5: https://my.f5.com/manage/s/
 - F5 Cloud Docs: https://clouddocs.f5.com/
 - F5 DevCentral (コミュニティ): https://community.f5.com/
 
