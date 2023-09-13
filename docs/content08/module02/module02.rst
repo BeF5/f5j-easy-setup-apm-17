@@ -55,6 +55,18 @@ Network Accessの設定
    :scale: 20%
    :align: center
 
+- スプリット・トンネルで通すネットワーク帯のアドレススペースを登録します。
+
+.. figure:: images/mod8-2-4-3-1.png
+   :scale: 20%
+   :align: center
+
+- 作成したアドレススペースを「Dynamic LAN Address Spaces」に設定します。
+
+.. figure:: images/mod8-2-4-3-2.png
+   :scale: 20%
+   :align: center
+
 - クライアントに割り当てるDNSやhostsを設定します。
 
 .. figure:: images/mod8-2-4-4.png
