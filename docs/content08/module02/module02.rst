@@ -88,7 +88,7 @@ Connectivity Profileの設定
 「Access」 → 「Connectivity / VPN」 → 「Connectivity」で以下の画面が現れます。右上に表示される「Add」ボタンを押すと、以下の画面が現れます。以下2ヶ所を設定し、「OK」ボタンを押します。
 
 .. figure:: images/mod8-2-6.png
-   :scale: 20%
+   :scale: 15%
    :align: center
 
 
