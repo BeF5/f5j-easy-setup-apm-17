@@ -19,7 +19,7 @@ BIG-IPシリーズ製品ラインナップにおいては、ソフトウェア�
 | https://f5.com/jp/products/security
 
 | AskF5: ナレッジベース総合サイト (英語)
-| https://support.f5.com/kb/en-us.html
+| https://my.f5.com/manage/s/
 
 | DevCentral: F5ユーザコミュニティサイト (英語: アカウント登録が必要です)
 | https://community.f5.com/
