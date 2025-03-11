@@ -34,19 +34,19 @@
 - 設定したパスワードでログインし直します。
 
 .. figure:: images/mod3-3-4.png
-   :scale: 70%
+   :scale: 50%
    :align: center
 
 - 「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-5.png
-   :scale: 50%
+   :scale: 75%
    :align: center
 
 - ライセンス画面が出ます。「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-6.png
-   :scale: 70%
+   :scale: 75%
    :align: center
 
 (中略)
