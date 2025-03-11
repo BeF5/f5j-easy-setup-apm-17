@@ -34,7 +34,7 @@
 - 設定したパスワードでログインし直します。
 
 .. figure:: images/mod3-3-4.png
-   :scale: 50%
+   :scale: 70%
    :align: center
 
 - 「Next」ボタンを押します。
@@ -46,7 +46,7 @@
 - ライセンス画面が出ます。「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-6.png
-   :scale: 50%
+   :scale: 70%
    :align: center
 
 (中略)
