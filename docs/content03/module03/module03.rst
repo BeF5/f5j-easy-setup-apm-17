@@ -40,13 +40,13 @@
 - 「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-5.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
 - ライセンス画面が出ます。「Next」ボタンを押します。
 
 .. figure:: images/mod3-3-6.png
-   :scale: 20%
+   :scale: 50%
    :align: center
 
 (中略)
