@@ -59,7 +59,7 @@
    .pemファイルはデフォルトでは表示されないかもしれません。その場合は、「すべてのファイル (*.*)」を選択して下さい。
 
    .. figure:: images/mod5-4-1-6-note.png
-      :scale: 20%
+      :scale: 75%
       :align: center
 
 
@@ -114,7 +114,7 @@
 - Windowsの「メモ帳」アプリを、管理者権限で実行します。
 
 .. figure:: images/mod5-4-2-1.png
-   :scale: 20%
+   :scale: 75%
    :align: center
 
 - C:\\Windows\\System32\\drivers\\etc\\hosts を編集します。hostsに指定するアドレスは、設定したVirtual ServerのIPアドレスを指定してください。
@@ -124,11 +124,11 @@
    「hosts」ファイルはデフォルト状態では表示されないかもしれません。その場合は「すべてのファイル(*.*)」を選択してください。)
    
    .. figure:: images/mod5-4-2-2.png
-      :scale: 20%
+      :scale: 75%
       :align: center
 
 .. figure:: images/mod5-4-2-3.png
-   :scale: 20%
+   :scale: 75%
    :align: center
 
 Webブラウザへ入力するURLは、IPアドレスではなくFQDN (https://www.abc-company.com)で入力します。これで、SSL証明書のセキュリティ警告を見ることなく、BIG-IPのVirtual Server経由でWebサーバへ接続することができます。
